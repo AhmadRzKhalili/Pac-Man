@@ -1,0 +1,2 @@
+clone in getters
+Shape and image makers name
